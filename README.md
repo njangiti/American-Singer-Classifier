@@ -32,7 +32,7 @@ The American Singer Classifier project leverages computer vision and machine lea
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/american-singer-classifier.git
+    git clone https://github.com/njangiti/american-singer-classifier.git
     cd american-singer-classifier
     ```
 
