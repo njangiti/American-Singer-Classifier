@@ -104,7 +104,7 @@ The user interface is developed using HTML and PyCharm, providing an interactive
 
 The model's performance is evaluated using a confusion matrix and other metrics. The final model achieves high accuracy in classifying the images of the five singers.
 
-![Confusion Matrix](path_to_confusion_matrix_image)
+![Confusion Matrix](https://github.com/njangiti/American-Singer-Classifier/blob/main/Screenshot%20(110).png)
 
 ## Contributing
 
