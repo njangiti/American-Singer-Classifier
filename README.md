@@ -65,25 +65,23 @@ The American Singer Classifier project leverages computer vision and machine lea
 
 ## Project Structure
 
-american-singer-classifier/
-│
-├── data/
-│ ├── raw/ # Raw image data
-│ ├── processed/ # Processed image data
-│
-├── notebooks/
-│ ├── americansingerclassifier.ipynb # Main Jupyter Notebook
-│
-├── models/
-│ ├── saved_model.pkl # Trained model
-│ ├── class_dictionary.json # Class labels
-│
-├── ui/
-│ ├── index.html # HTML for user interface
-│
-├── requirements.txt # Required Python packages
-├── README.md # Project README file
-└── LICENSE # Project License
+This project consists of the following directories and files:
+
+- **data/**: Contains raw and processed image data.
+  - **raw/**: Raw image data.
+  - **processed/**: Processed image data.
+
+- **notebooks/**: Contains the main Jupyter Notebook (`americansingerclassifier.ipynb`).
+
+- **models/**: Contains the trained model (`saved_model.pkl`) and class labels (`class_dictionary.json`).
+
+- **ui/**: Contains HTML files for the user interface.
+
+- **requirements.txt**: Specifies required Python packages.
+
+- **README.md**: Project README file (this file).
+
+- **LICENSE**: Project License.
 
 
 ## Model Training
